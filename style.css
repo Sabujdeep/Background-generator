@@ -2,3 +2,7 @@ h1{
     background-color: rgba(0, 0, 255, 0.268) ;
     color: white;
 }
+h2{
+    height: 200px;
+    aspect-ratio: 1;
+}
